@@ -1,0 +1,11 @@
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\bin\Debug\praktikum2_datatype_230401020103.exe.config
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\bin\Debug\praktikum2_datatype_230401020103.exe
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\bin\Debug\praktikum2_datatype_230401020103.pdb
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\bin\Debug\praktikum2_datatype_230401020103.xml
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\obj\Debug\praktikum2_datatype_230401020103.vbprojResolveAssemblyReference.cache
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\obj\Debug\praktikum2_datatype_230401020103.Form1.resources
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\obj\Debug\praktikum2_datatype_230401020103.Resources.resources
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\obj\Debug\praktikum2_datatype_230401020103.vbproj.GenerateResource.Cache
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\obj\Debug\praktikum2_datatype_230401020103.exe
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\obj\Debug\praktikum2_datatype_230401020103.xml
+D:\VB.NET\Praktikum VBNET DataType dan Operator\praktikum2_datatype_230401020103\obj\Debug\praktikum2_datatype_230401020103.pdb

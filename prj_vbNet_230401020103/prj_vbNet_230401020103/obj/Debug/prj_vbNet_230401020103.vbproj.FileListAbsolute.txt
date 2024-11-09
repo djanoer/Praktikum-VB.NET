@@ -1,0 +1,11 @@
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\bin\Debug\prj_vbNet_230401020103.exe.config
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\bin\Debug\prj_vbNet_230401020103.exe
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\bin\Debug\prj_vbNet_230401020103.pdb
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\bin\Debug\prj_vbNet_230401020103.xml
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\obj\Debug\prj_vbNet_230401020103.vbprojResolveAssemblyReference.cache
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\obj\Debug\prj_vbNet_230401020103.Frmcoba.resources
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\obj\Debug\prj_vbNet_230401020103.Resources.resources
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\obj\Debug\prj_vbNet_230401020103.vbproj.GenerateResource.Cache
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\obj\Debug\prj_vbNet_230401020103.exe
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\obj\Debug\prj_vbNet_230401020103.xml
+D:\VB.NET\prj_vbNet_230401020103\prj_vbNet_230401020103\obj\Debug\prj_vbNet_230401020103.pdb
